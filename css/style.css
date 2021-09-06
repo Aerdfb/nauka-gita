@@ -2,12 +2,14 @@ body {
     margin: 0;
     font-size: 16px;
     line-height: 2;
+    background-color: aqua;
 }
 
 .container {
     max-width: 600px;
     align-items: center;
     margin: 0 auto;
+    background-color: #fff;
 }
 
 h1 {
